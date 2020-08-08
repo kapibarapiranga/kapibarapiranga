@@ -8,10 +8,10 @@
 
 ### About
 
--  **Learning :** Full-Stack Development	
+-  **Learning :** Fullstack Development	| TypeScript, React, REST
 -  **Languages :** Bash, C, JavaScript ES6, PHP, Python
 -  **Hobbies :** Music & Movies
--  **Member of :** TECS
+-  **Member of :** TECS comput{ação social}
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
