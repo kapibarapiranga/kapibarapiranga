@@ -15,7 +15,9 @@
 ### About
 
 -  **Learning :** HTML
--  **Languages :** PHP, Bash, C, Python
+-  **Knows :** PHP, Bash, C, Python, Linux, SQL
+-  **Smatters :** Azure, .NET, Java, JS, C#, Spring, HTML5, CSS3, Angular, Bootstrap, Scrum, React, RESTful, REST
+
 -  **Member of :** TECS comput{ação social}
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
