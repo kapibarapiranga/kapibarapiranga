@@ -18,8 +18,6 @@
 -  **Languages :** PHP, Bash, C, Python
 -  **Member of :** TECS comput{ação social}
 
-[//]: # Tecnologies: HTML
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vicospacorum&show_icons=true)
