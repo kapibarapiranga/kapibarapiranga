@@ -8,8 +8,8 @@
 
 ---
 
-### Bio <span class="br"></span> <span class="br"></span>
-###### Sou webdesigner e dev fullstack. Atualmente estudando ciência de dados e física computacional. 
+### Bio <span class="fi fi-gr"></span> <span class="fi fi-br fis"></span>
+Sou webdesigner e dev fullstack. Atualmente estudando ciência de dados e física computacional. 
 Além da área puramente técnica também me interesso bastante pelo impacto social da tecnologia.
 
 <p align="center">
