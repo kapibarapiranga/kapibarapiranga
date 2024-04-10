@@ -1,6 +1,6 @@
 ### Felipe Morezuela 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe_Morezuela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fmgdomingos/)](https://www.linkedin.com/in/fmgdomingos/) [![Gmail Badge](https://img.shields.io/badge/-fmgdomingos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fmgdomingos@gmail.com)](mailto:fmgdomingos@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Kapibara-blue?style=flat-square&logo=Discord&logoColor=white&link=https://www.discord.com/kapibara_piranga/)](https://www.discord.com/kapibara_piranga/)
+[![Discord Badge](https://img.shields.io/badge/-Morezuela's_Server-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/8VpaMSdksV)](https://discord.gg/8VpaMSdksV)
 
 ---
 
