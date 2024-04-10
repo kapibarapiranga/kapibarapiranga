@@ -4,7 +4,14 @@
 ---
 
 ### Bio (https://img.shields.io/badge/style=flat-square&lag=Brazil&logoColor=white)
-###### Sou webdesigner e dev fullstack. Atualmente estudando ciência de dados e física computacional. Além da área puramente técnica também me interesso bastante pelo impacto social da tecnologia.
+###### Sou webdesigner e dev fullstack. Atualmente estudando ciência de dados e física computacional. 
+Além da área puramente técnica também me interesso bastante pelo impacto social da tecnologia.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,css,html,php,python,mysql,vim" />
+  </a>
+</p>
 
 ---
 
