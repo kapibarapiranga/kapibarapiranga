@@ -1,9 +1,14 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.0.0/css/flag-icons.min.css"
+/>
+
 ### Morezuela 
 [![Discord Badge](https://img.shields.io/badge/-Morezuela's_Server-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/8VpaMSdksV)](https://discord.gg/8VpaMSdksV)
 
 ---
 
-### Bio (https://img.shields.io/badge/style=flat-square&lag=Brazil&logoColor=white)
+### Bio <span class="br"></span> <span class="br"></span>
 ###### Sou webdesigner e dev fullstack. Atualmente estudando ciência de dados e física computacional. 
 Além da área puramente técnica também me interesso bastante pelo impacto social da tecnologia.
 
