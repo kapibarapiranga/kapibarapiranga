@@ -4,7 +4,7 @@
 ---
 
 ### Bio
-<p>Sou webdesigner e dev fullstack. Atualmente estudando ciência de dados e física computacional. 
+<p>Sou webdesigner e dev fullstack. Atualmente estudando Ciência de Dados e Física Computacional. 
 <p>Além da área puramente técnica também me interesso bastante pelo impacto social da tecnologia.
 
 <p align="center">
