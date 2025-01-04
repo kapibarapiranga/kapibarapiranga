@@ -4,9 +4,15 @@
 ---
 
 ### Bio
-<p>Sou webdesigner e dev fullstack. Atualmente estudando Ciência de Dados e Física Computacional. 
+<p>Sou Técnico Bancário da área de TI, trabalho atualmente com Java e Quarkus na migração de sistemas Cobol para Java.
+<p></p>No passado já atuei como webdesigner e dev fullstack e possuo grande interesse nas áreas de Ciência de Dados, Física Computacional e Econofísica.
 <p>Além da área puramente técnica também me interesso bastante pelo impacto social da tecnologia.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,quarkus,intellij" />
+  </a>
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,css,html,php,python,mysql,vim" />
@@ -17,12 +23,14 @@
 
 ### Sobre Mim
 
--  **Estudando :** Docker
+-  **Estudando :** Java, Quarkus, REST
 -  **Sabe :** Bash, C, CSS3, HTML5, PHP, Python, SQL
--  **Conhece :** .NET, Angular, Azure, Bootstrap, C#, Java, JS, React, RESTful, REST, Scrum, Spring
+-  **Conhece :** .NET, Angular, Azure, Bootstrap, C#, Docker, Java, JS, React, RESTful, REST, Scrum, Spring
 
 -  **Membro de :** TECS comput{ação social}
 kapibarapiranga
+---
+##### Se os programadores tudo codam, a eles todo o código pertence
 ---
 ### Github Stats
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kapibarapiranga&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
