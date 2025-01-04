@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,quarkus,intellij" />
+    <img src="https://skillicons.dev/icons?i=java,quarkus,idea" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,css,html,php,python,mysql,vim" />
+    <img src="https://skillicons.dev/icons?i=bash,c,css,html,linux,php,python,mysql,vim" />
   </a>
 </p>
 
