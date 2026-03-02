@@ -4,13 +4,13 @@
 ---
 
 ### Bio
-<p>Sou Técnico Bancário da área de TI, trabalho atualmente com Java e Quarkus na migração de sistemas Cobol para Java.
+<p>Técnic Bancári da área de TI, trabalho atualmente com Java e Quarkus na migração de sistemas Cobol para Java.
 <p></p>No passado já atuei como webdesigner e dev fullstack e possuo grande interesse nas áreas de Ciência de Dados, Física Computacional e Econofísica.
 <p>Além da área puramente técnica também me interesso bastante pelo impacto social da tecnologia.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,quarkus,idea" />
+    <img src="https://skillicons.dev/icons?i=cobol,java,quarkus,idea" />
   </a>
 </p>
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### Sobre Mim
 
--  **Estudando :** Java, Quarkus, REST
+-  **Estudando :** COBOL, Java, Quarkus, REST
 -  **Sabe :** Bash, C, CSS3, HTML5, PHP, Python, SQL
 -  **Conhece :** .NET, Angular, Azure, Bootstrap, C#, Docker, Java, JS, React, RESTful, REST, Scrum, Spring
 
